@@ -18,7 +18,7 @@ Instruções para instalar e configurar o projeto.
 
 ```sh
 # Clone o repositório
-git clone 
+git clone https://github.com/yLucino/DevQuest-CSS-ProfileCard.git 
 
 # Navegue até o diretório do projeto
 cd repo
